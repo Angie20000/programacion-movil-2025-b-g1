@@ -1,0 +1,47 @@
+@startuml
+title Ciclo de Vida del Proyecto - Aplicación de Recetas
+
+start
+
+:Análisis y planificación;
+note right
+- Identificación de necesidades  
+- Definición de requisitos  
+- Análisis de mercado
+end note
+
+:Diseño UX/UI;
+note right
+- Creación en Figma  
+- Prototipos  
+- Diseño visual de la app
+end note
+
+:Desarrollo;
+note right
+- Listar recetas  
+- Detalle de recetas  
+- Favoritos  
+- Buscador
+end note
+
+:Pruebas;
+note right
+- Validación de la app  
+- Feedback con usuarios
+end note
+
+:Despliegue;
+note right
+- Publicación en Play Store
+end note
+
+:Mantenimiento;
+note right
+- Actualizaciones  
+- Mejoras de diseño  
+- Optimización de rendimiento
+end note
+
+stop
+@enduml
